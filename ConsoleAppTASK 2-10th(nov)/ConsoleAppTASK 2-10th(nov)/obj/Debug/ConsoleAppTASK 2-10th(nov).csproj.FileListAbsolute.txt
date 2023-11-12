@@ -1,0 +1,7 @@
+C:\Mphasis -B233\AppTwo\Day-5\Assigment -10th(nov)\ConsoleAppTASK 2-10th(nov)\ConsoleAppTASK 2-10th(nov)\bin\Debug\ConsoleAppTASK 2-10th(nov).exe.config
+C:\Mphasis -B233\AppTwo\Day-5\Assigment -10th(nov)\ConsoleAppTASK 2-10th(nov)\ConsoleAppTASK 2-10th(nov)\bin\Debug\ConsoleAppTASK 2-10th(nov).exe
+C:\Mphasis -B233\AppTwo\Day-5\Assigment -10th(nov)\ConsoleAppTASK 2-10th(nov)\ConsoleAppTASK 2-10th(nov)\bin\Debug\ConsoleAppTASK 2-10th(nov).pdb
+C:\Mphasis -B233\AppTwo\Day-5\Assigment -10th(nov)\ConsoleAppTASK 2-10th(nov)\ConsoleAppTASK 2-10th(nov)\obj\Debug\ConsoleAppTASK 2-10th(nov).csproj.AssemblyReference.cache
+C:\Mphasis -B233\AppTwo\Day-5\Assigment -10th(nov)\ConsoleAppTASK 2-10th(nov)\ConsoleAppTASK 2-10th(nov)\obj\Debug\ConsoleAppTASK 2-10th(nov).csproj.CoreCompileInputs.cache
+C:\Mphasis -B233\AppTwo\Day-5\Assigment -10th(nov)\ConsoleAppTASK 2-10th(nov)\ConsoleAppTASK 2-10th(nov)\obj\Debug\ConsoleAppTASK 2-10th(nov).exe
+C:\Mphasis -B233\AppTwo\Day-5\Assigment -10th(nov)\ConsoleAppTASK 2-10th(nov)\ConsoleAppTASK 2-10th(nov)\obj\Debug\ConsoleAppTASK 2-10th(nov).pdb
